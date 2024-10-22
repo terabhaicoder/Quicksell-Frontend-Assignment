@@ -1,10 +1,15 @@
-# Quicksell Frontend Assignment
+# Kanban Board Application
 
-## Objectives
-- [x] An interactive Kanban board application is created using React JS
-- [x] Data is fetched from the given API (https://api.quicksell.co/v1/internal/frontend-assignment)
-- [x] Using the 'Display' button, the user is able to
-    1. Group data according to 'Status', 'User' or 'Priority'
-    2. Sort the grouped data according to 'Title' or 'Priority'
-- [x] The Kanban board is responsive and visually appealing, in accordance with the design provided in the screenshots
-- [x] The application saves the user's view state even after the page is reloaded
+This is a responsive Kanban board application built with pure React.js. It fetches data from the provided API and allows users to group and sort tickets dynamically based on their preferences. Users can select grouping options by Status, User, or Priority and sort tickets by Priority or Title. The application also saves the user's view state, ensuring a consistent experience even after page reloads.
+
+## Features
+
+Dynamic Grouping: Group tickets by Status, User, or Priority.
+Sorting Options: Sort tickets by Priority (descending) or Title (ascending).
+Responsive Design: Adapts to various screen sizes with a visually appealing layout.
+Persistent State: Maintains the user's view state across page reloads.
+
+## Technologies
+
+React.js
+Pure CSS
