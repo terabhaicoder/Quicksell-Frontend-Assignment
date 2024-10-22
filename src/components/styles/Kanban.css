@@ -1,0 +1,19 @@
+.page {
+    background-color: #f5f5f9;
+}
+
+.board {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+    min-height: 100vh;
+    margin-top: 30px;
+}
+
+.group-column {
+    width: 280px;
+    
+    margin: 0px 20px 40px 20px;
+}

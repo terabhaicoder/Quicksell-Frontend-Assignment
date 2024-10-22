@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Transformed by: SVG Repo Mixer Tools -->
+
+<svg
+   fill="#b2bac9"
+   width="666.66669"
+   height="666.66669"
+   viewBox="0 0 20.000001 20.000001"
+   id="cross-circle"
+   class="icon glyph"
+   version="1.1"
+   sodipodi:docname="Cancelled.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1356" />
+  <sodipodi:namedview
+     id="namedview1354"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.86875"
+     inkscape:cx="333.81295"
+     inkscape:cy="333.23741"
+     inkscape:window-width="1920"
+     inkscape:window-height="1007"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="cross-circle" />
+  <g
+     id="SVGRepo_bgCarrier"
+     stroke-width="0"
+     transform="translate(-2,-2)" />
+  <g
+     id="SVGRepo_tracerCarrier"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     transform="translate(-2,-2)" />
+  <g
+     id="SVGRepo_iconCarrier"
+     transform="translate(-2,-2)">
+    <path
+       d="M 12,2 A 10,10 0 1 0 22,12 10,10 0 0 0 12,2 Z m 3.71,12.29 a 1,1 0 0 1 0,1.42 1,1 0 0 1 -1.42,0 L 12,13.42 9.71,15.71 a 1,1 0 0 1 -1.42,0 1,1 0 0 1 0,-1.42 L 10.58,12 8.29,9.71 A 1.0040916,1.0040916 0 0 1 9.71,8.29 L 12,10.58 14.29,8.29 a 1.0040916,1.0040916 0 0 1 1.42,1.42 L 13.42,12 Z"
+       id="path1350" />
+  </g>
+</svg>
